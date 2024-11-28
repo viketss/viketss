@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Victoria Cuomo - UNA - Multimediales - Bs As, ARG
+Victoria Cuomo - UADE - SISTEMAS
 
 <!---
 viketss/viketss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
