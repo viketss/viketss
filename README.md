@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viketss
-- 👀 I’m interested in Multimedia
+- 👀 I’m interested in Software design & development
 - 🌱 I’m currently programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
